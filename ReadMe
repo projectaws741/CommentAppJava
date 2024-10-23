@@ -9,3 +9,4 @@ Add or update the following lines:
 #export PATH=$M2_HOME/bin:$PATH
 #source ~/.bashrc
 #mvn -version
+Update DB end point username and password in requeremnts.properties file in main/src/resources/requirements(Compatable to only MSSQL.).
